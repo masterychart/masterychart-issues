@@ -5,9 +5,12 @@
   Found a problem with Mastery Chart? Report it here!
 </p>
 
-## Guidelines
+## What this is for
+- Issues with design or functionality: [open a ticket](https://github.com/Mastery-Chart/masterychart-issues/issues/new)
+- Feature suggestions: [open a discussion](https://github.com/Mastery-Chart/masterychart-issues/discussions/new/choose)
 
-- Please check out whether the issue is covered within the [FAQ/Info section](https://masterychart.com/faq) before submitting a ticket.
-- If this is an issue with your account specifically, [contact us](https://masterychart.com/contact) directly instead.
-- New features should be suggested via the [feedback platform](https://suggestion.masterychart.com/) so they can be publicized.
-- For critical security issues, [contact us](https://masterychart.com/contact) directly.
+## What this is not for
+
+- Issues covered within the [FAQ/Info section](https://masterychart.com/faq)
+- Can't find your account: [contact support](https://masterychart.com/contact)
+- Critical security issues: [contact us](https://masterychart.com/contact)
